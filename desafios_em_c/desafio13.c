@@ -1,4 +1,4 @@
-/* Aparece os numeros seguintes doinicio ao fim */
+/* Aparece os numeros seguintes do inicio ao fim */
 
 #include <stdio.h>
 
